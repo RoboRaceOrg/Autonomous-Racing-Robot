@@ -27,9 +27,9 @@ This is the updated version! codename `Mini-Tesla` - it now has a rechargeable L
     - [Quick power test](#Quick-power-test)
   - [Programming](#Programming)
     - [Troubleshooting](#Troubleshooting)
-  - [Exploration](#Exploration)
-
-
+      
+## Where to buy this Robo Kit
+This robo kit can be bought from the [Roboracer Organisation Online Store](https://www.roboracer.org/online-store)
 ## Connection Table
 
 The motor controller fits directly on-top of the uno so you don't have to worry about the pinout of the motor connections. The LDR and ultrasonic sensor and  connect into the analogue pins on the motor shield, which don't have headers, but we can just solder them in with the vertical headers.
