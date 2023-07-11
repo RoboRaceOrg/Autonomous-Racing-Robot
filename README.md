@@ -13,8 +13,6 @@ This is the updated version! codename `Mini-Tesla` - it now has a rechargeable L
 
 - [Wall Dodging Robot](#Wall-Dodging-Robot)
   - [Table of Contents](#Table-of-Contents)
-  - [Bill of Materials](#Bill-of-Materials)
-    - [You might also want](#You-might-also-want)
   - [Connection Table](#Connection-Table)
   - [System Overview](#System-Overview)
   - [Assembly](#Assembly)
