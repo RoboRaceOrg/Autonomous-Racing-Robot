@@ -1,4 +1,4 @@
-# Wall Dodging Robot
+# Autonomous Racing Robot
 
 This clever robot is the perfect way to get started with robotics. The robot explores
 its surroundings as it avoids obstacles and walls in its path. Starting with the
@@ -11,7 +11,7 @@ This is the updated version! codename `Mini-Tesla` - it now has a rechargeable L
 
 ## Table of Contents
 
-- [Wall Dodging Robot](#Wall-Dodging-Robot)
+- [Autonomous Racing Robot](#Autonomous-Racing-Robot)
   - [Table of Contents](#Table-of-Contents)
   - [Connection Table](#Connection-Table)
   - [System Overview](#System-Overview)
